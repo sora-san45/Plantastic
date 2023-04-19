@@ -1,6 +1,7 @@
-# xpensetrack
-- Application intended to manage personal finances
-- Usage of Google Sheets API 
+# Plantastic UI
+
+![Screenshot (12)](https://user-images.githubusercontent.com/107429244/232954121-ce8b92ac-a26e-4a0d-a1bc-6e02680283fe.png)
+
 
 
 A new Flutter project.
